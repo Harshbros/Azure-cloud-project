@@ -1,0 +1,24 @@
+
+# Azure Cloud Project – Web App, SQL, Monitoring, IAM
+
+## Overview
+
+This project demonstrates a full-stack cloud application deployment on Microsoft Azure. It includes a deployed web application using Azure App Service, a connected Azure SQL Database, monitoring through Application Insights, and access control via IAM role assignments.
+
+## Services Used
+
+- Azure App Service – For hosting the web application
+- Azure SQL Database – For data storage and access
+- Application Insights – For monitoring performance and diagnostics
+- Azure Identity and Access Management (IAM) – For configuring resource-level permissions
+- Azure CLI – For deploying and managing resources
+
+## Key Objectives
+
+- Deploy a web app using Azure App Service
+- Create and connect to an Azure SQL Database
+- Configure Application Insights for monitoring
+- Assign IAM roles to simulate access control
+
+
+

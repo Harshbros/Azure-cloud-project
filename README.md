@@ -20,5 +20,7 @@ This project demonstrates a full-stack cloud application deployment on Microsoft
 - Configure Application Insights for monitoring
 - Assign IAM roles to simulate access control
 
+CLICK THE LINKS FOR BADGES AS ALL THE WORK DONE IN SANDBOX IN MICROSOFT LEARN, SESSION EXPIRES AND NO LINK AVAILABLE FOR PROJECT
 
-
+https://learn.microsoft.com/api/achievements/share/en-us/Harshs-6395/BCLCK2BD?sharingId=7B7F23A0E48EE33E
+https://learn.microsoft.com/api/achievements/share/en-us/Harshs-6395/H7Y2H2J8?sharingId=7B7F23A0E48EE33E
